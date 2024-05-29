@@ -5,3 +5,5 @@ Hello Mr Fosker!
 If you detect this on the Splunk DLP reports, please let Dean Bevan or Stuart Fosker know ASAP.
 
 This is a test line to prove the ability to push to a rmeote, not controlled by the group.
+
+This is an SSH test
