@@ -6,4 +6,4 @@ If you detect this on the Splunk DLP reports, please let Dean Bevan or Stuart Fo
 
 This is a test line to prove the ability to push to a rmeote, not controlled by the group.
 
-This is an SSH test to test access to gh.com over ssh. this should be blocked
+This is an SSH test to test access to gh.com over ssh. this should be blocked. At the moment it's not though
