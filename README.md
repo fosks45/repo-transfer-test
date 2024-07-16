@@ -13,6 +13,4 @@ This is me waiting a long time.
 
 Some more text added to the file
 
-This is another test
-
-This is yet another test
+More testing
